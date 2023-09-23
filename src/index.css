@@ -1,0 +1,13 @@
+.admin-layout{
+    height: 100vh;
+}
+.ant-layout-content{
+    height: calc(100vh - 64px);
+    overflow:auto;
+}
+.admin-logo{
+    padding: 24px;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
